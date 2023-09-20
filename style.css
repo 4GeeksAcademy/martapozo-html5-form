@@ -1,0 +1,11 @@
+
+.amount{
+    position: relative; 
+
+}
+
+.money{
+    position:absolute;
+    top: 35px;
+    left: -15px;
+}
